@@ -36,3 +36,8 @@ Where odd and even pins are signals of the VFD and the key matrix.
 - D0 .. D8 : Digits ( grid ). 
 - R1 .. R3 : Row 1 .. 3 of the key matrix.
 - C0 .. C8 : Column 0 .. 8 of the key matrix.
+
+## Photo
+This is photo of the version 1.0.0.
+
+![](image/PXL_20220625_004428883.jpg)
