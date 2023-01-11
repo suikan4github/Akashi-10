@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,6.0.2+dfsg-1*%
-%TF.CreationDate,2023-01-12T07:52:00+09:00*%
+%TF.CreationDate,2023-01-12T07:59:44+09:00*%
 %TF.ProjectId,Akashi-10,416b6173-6869-42d3-9130-2e6b69636164,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.2+dfsg-1) date 2023-01-12 07:52:00*
+G04 Created by KiCad (PCBNEW 6.0.2+dfsg-1) date 2023-01-12 07:59:44*
 %MOMM*%
 %LPD*%
 G01*
@@ -22,10 +22,10 @@ G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D10*
 %TO.C,TP1*%
-X122810000Y-97360000D03*
+X122810000Y-92280000D03*
 %TD*%
 %TO.C,TP2*%
-X122810000Y-91645000D03*
+X122810000Y-85930000D03*
 %TD*%
 D11*
 %TO.C,U1*%
